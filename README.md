@@ -69,3 +69,8 @@ Our results confirm that high accuracy can be achieved with various machine lear
    ```bash
    git clone https://github.com/yourusername/creditcard_fraud_detection.git
    cd creditcard_fraud_detection
+
+### Running the Notebook
+1. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook creditcard_final_comparison.ipynb
