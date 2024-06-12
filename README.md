@@ -58,6 +58,9 @@ Given these high performance benchmarks, our goal was to achieve similar levels 
 
 Our results confirm that high accuracy can be achieved with various machine learning techniques, aligning with findings from other research on this dataset.
 
+### Data
+The dataset used for this project can be found on Kaggle: [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
 ## How to Use This Project
 ### Prerequisites
 - Python 3.11
@@ -75,6 +78,6 @@ Our results confirm that high accuracy can be achieved with various machine lear
    ```bash
    jupyter notebook creditcard_final_comparison.ipynb
 
-### Data
-The dataset used for this project can be found on Kaggle: [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
+## Thank you for your time!
 
