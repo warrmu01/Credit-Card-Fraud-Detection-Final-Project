@@ -4,7 +4,7 @@
 This project aims to detect fraudulent credit card transactions using various machine learning algorithms and techniques. The goal is to achieve the highest possible accuracy, precision, recall, and F1 score by comparing traditional machine learning algorithms, ensemble learning methods, and deep neural networks (DNNs).
 
 ### This Project has two stages:
-1. This stage is labeled part 1 which uses traditional machine learning algorithms.
+1. This stage is labeled project 1 which uses traditional machine learning algorithms.
 2. This stage conatins ensemble learning methods and deep neural networks (DNNs).
 
 
