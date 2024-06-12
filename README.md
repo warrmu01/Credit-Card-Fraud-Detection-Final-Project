@@ -74,3 +74,7 @@ Our results confirm that high accuracy can be achieved with various machine lear
 1. Open the Jupyter Notebook:
    ```bash
    jupyter notebook creditcard_final_comparison.ipynb
+
+### Data
+The dataset used for this project can be found on Kaggle: [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
