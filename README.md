@@ -75,7 +75,7 @@ The dataset used for this project can be found on Kaggle: [Credit Card Fraud Det
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/creditcard_fraud_detection.git
+   git clone https://github.com/warrmu01/creditcard_fraud_detection.git
    cd creditcard_fraud_detection
 
 ### Running the Notebook
